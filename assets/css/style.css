@@ -125,7 +125,7 @@ transform: scale(1.055) !important;
 }
 
 
-#services{
+.services-section{
     margin-top: 130px !important;
 }
 .hr-services{
@@ -156,7 +156,7 @@ transform: scale(1.055) !important;
 .cards-heading{
     font-weight: 500;
 }
-#portfolio{
+.porfolio-section{
     margin-top: 100px;
 }
 .portfolio-card{
@@ -183,11 +183,11 @@ transform: scale(1.055) !important;
     opacity: 0;
 }
 
-#call-to-action{
+.call-to-action-section{
     margin-top: 50px;
     background-color: #0d6efd;
 }
-#contact{
+.contact-section{
     margin-top: 100px;
     border-bottom: 1px solid rgb(221, 218, 218);
     padding-bottom: 50px;
